@@ -1,32 +1,107 @@
-# Hi, I'm Charan.T.R 👋
+# Hi, I'm Charan T R 👋
 
-### Full-Stack AI Engineer & Backend Architect
+### Aspiring Data Analyst | Python Developer | AI & Machine Learning Enthusiast
 
-I specialize in building production-oriented software systems that integrate robust, deterministic backend logic with scalable AI inference engines. I focus on developing clean, memory-safe data pipelines, provider-agnostic infrastructure layers, and automated cloud deployments.
-
----
-
-## 🚀 Core Architectural Focus Areas
-- **In-Memory Computation:** Designing stateless ingestion layers that process files via byte-streams, eliminating disk I/O vulnerabilities.
-- **AI Provider Interoperability:** Building decoupled client gateways that permit dynamic hot-swapping between frontier models (OpenAI, Llama via Groq).
-- **Data Matrix Processing:** Leveraging Pandas and Scikit-learn for deterministic structural classification and metric validation.
-- **GitOps & DevOps Automation:** Configuring tight CI/CD pipelines targeting containerized Linux hosting environments.
+Final-year Computer Science Engineering student with experience in Python development, SQL, Power BI, and Data Analytics. Passionate about transforming raw data into actionable business insights and building intelligent software solutions that solve real-world problems.
 
 ---
 
-## 🛠️ Technical Stack Matrix
+## 🎯 Current Focus
 
-```text
-├── Languages        : Python, JavaScript, SQL, HTML5, CSS3
-├── Frameworks       : Streamlit, Flask, FastAPI
-├── AI & Data Science: Pandas, NumPy, Scikit-learn, OpenAI SDK, Groq Cloud API
-├── Cloud & DevOps   : Render, Linux Containers, Git, CI/CD Pipeline Architectures
+* Data Analytics & Business Intelligence
+* Power BI Dashboard Development
+* SQL & Database Optimization
+* Python Backend Development
+* Machine Learning & AI Applications
+* Software Engineering Fundamentals
 
-📊 Featured Live Systems
-📄 AI Resume Analyzer
-Core Engineering: Built a memory-safe file extraction platform utilizing runtime byte streams, memory-state caching, local deterministic regex filtering, and decoupled LLM inference client routing.
+---
 
-Production Status: Live on cloud-hosted Linux web containers with automated webhook deployments.
+## 💼 Experience
 
-📈 Connect With Me
-💼 LinkedIn: linkedin.com/in/YOUR_LINKEDIN_PROFILE
+### Associate Software Developer Intern | Mphasis
+
+* Developed Python-based automation solutions.
+* Worked with SQL queries and database operations.
+* Contributed to backend development and data processing tasks.
+* Utilized Git and GitHub for version control and collaboration.
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+
+* Python
+* SQL
+* JavaScript
+* HTML
+* CSS
+
+### Data Analytics
+
+* Power BI
+* Excel
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+
+### Backend Development
+
+* Flask
+* FastAPI
+* REST APIs
+
+### Databases
+
+* MySQL
+* PostgreSQL
+
+### Tools
+
+* Git
+* GitHub
+* VS Code
+* Jupyter Notebook
+* Linux
+
+---
+
+## 📊 Featured Projects
+
+### 🛒 E-Commerce Sales Analytics Dashboard
+
+Power BI dashboard analyzing sales performance, profitability, customer behavior, and payment trends using DAX, Power Query, and data visualization.
+
+### 👨‍💼 HR Workforce Analytics Dashboard
+
+Workforce analytics solution providing insights into employee attrition, salary distribution, job roles, demographics, and retention trends.
+
+### 🚗 UK Road Accident Analysis Dashboard
+
+Comprehensive road safety analytics dashboard analyzing accident severity, casualty trends, vehicle involvement, weather conditions, and geographic accident distribution.
+
+---
+
+## 🌱 Currently Learning
+
+* Advanced SQL
+* Machine Learning
+* Data Engineering
+* Cloud Technologies
+* System Design
+
+---
+
+## 📫 Connect With Me
+
+💼 LinkedIn: https://www.linkedin.com/in/charan-t-r
+
+💻 GitHub: https://github.com/TRCharan
+
+📧 Email: [charantr2714@gmail.com](mailto:charantr2714@gmail.com)
+
+---
+
+⭐ Open to Data Analyst, Business Analyst, Python Developer, and AI-related opportunities.
