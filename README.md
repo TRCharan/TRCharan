@@ -12,7 +12,7 @@
 ## About Me
 
 - 🎓 Final-year **B.E. Computer Science** student at KSSEM, Bengaluru *(Expected Dec 2026)*
-- 💼 Former **Data Analyst Intern @ Mphasis** — built Python + SQL pipelines, improved data quality by 30%
+- 💼 Former **Associate Software Intern @ Mphasis** — built Python + SQL Web App 
 - 📊 Passionate about transforming raw datasets into clear, decision-driving insights
 - 🔍 Skilled in **EDA, Descriptive Statistics, Data Cleaning, ETL Pipelines**, and **Interactive Dashboards**
 - 🏆 Runner-Up — Project Exhibition | 2nd Runner-Up — 24-Hour Hackathon *(KSSEM)*
