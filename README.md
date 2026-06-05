@@ -81,21 +81,6 @@ End-to-end analytics solution covering revenue, profitability, and customer beha
 - Developed DAX measures tracking **Total Sales, Profit, Quantity Sold, and AOV**
 - Engineered Power Query transformation pipelines for state-wise, customer-wise, and category-wise analysis
 
----
-
-### 🤟 [AI Sign Language to Text & Speech App](https://github.com/TRCharan)
-> **Python · OpenCV · NLP**
-
-Built a real-time AI application that recognizes sign language gestures and converts them to text and speech — combining computer vision and natural language processing.
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TRCharan&show_icons=true&theme=default&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TRCharan&layout=compact&theme=default&hide_border=true" height="165"/>
-</p>
 
 ---
 
