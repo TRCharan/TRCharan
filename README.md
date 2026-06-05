@@ -1,107 +1,121 @@
-# Hi, I'm Charan T R 👋
+<h1 align="center">Hi, I'm Charan T R 👋</h1>
 
-### Aspiring Data Analyst | Python Developer | AI & Machine Learning Enthusiast
+<h3 align="center">Data Analyst · Python · SQL · Power BI · EDA</h3>
 
-Final-year Computer Science Engineering student with experience in Python development, SQL, Power BI, and Data Analytics. Passionate about transforming raw data into actionable business insights and building intelligent software solutions that solve real-world problems.
-
----
-
-## 🎯 Current Focus
-
-* Data Analytics & Business Intelligence
-* Power BI Dashboard Development
-* SQL & Database Optimization
-* Python Backend Development
-* Machine Learning & AI Applications
-* Software Engineering Fundamentals
+<p align="center">
+  <a href="mailto:charantr2714@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/charan-t-r"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
 
 ---
 
-## 💼 Experience
+## About Me
 
-### Associate Software Developer Intern | Mphasis
-
-* Developed Python-based automation solutions.
-* Worked with SQL queries and database operations.
-* Contributed to backend development and data processing tasks.
-* Utilized Git and GitHub for version control and collaboration.
-
----
-
-## 🛠️ Technical Skills
-
-### Programming Languages
-
-* Python
-* SQL
-* JavaScript
-* HTML
-* CSS
-
-### Data Analytics
-
-* Power BI
-* Excel
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-
-### Backend Development
-
-* Flask
-* FastAPI
-* REST APIs
-
-### Databases
-
-* MySQL
-* PostgreSQL
-
-### Tools
-
-* Git
-* GitHub
-* VS Code
-* Jupyter Notebook
-* Linux
+- 🎓 Final-year **B.E. Computer Science** student at KSSEM, Bengaluru *(Expected Dec 2026)*
+- 💼 Former **Data Analyst Intern @ Mphasis** — built Python + SQL pipelines, improved data quality by 30%
+- 📊 Passionate about transforming raw datasets into clear, decision-driving insights
+- 🔍 Skilled in **EDA, Descriptive Statistics, Data Cleaning, ETL Pipelines**, and **Interactive Dashboards**
+- 🏆 Runner-Up — Project Exhibition | 2nd Runner-Up — 24-Hour Hackathon *(KSSEM)*
+- 📬 Reach me: **charantr2714@gmail.com**
 
 ---
 
-## 📊 Featured Projects
+## 🛠️ Tech Stack
 
-### 🛒 E-Commerce Sales Analytics Dashboard
+**Languages & Databases**
 
-Power BI dashboard analyzing sales performance, profitability, customer behavior, and payment trends using DAX, Power Query, and data visualization.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-### 👨‍💼 HR Workforce Analytics Dashboard
+**Data Analysis & Visualization**
 
-Workforce analytics solution providing insights into employee attrition, salary distribution, job roles, demographics, and retention trends.
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
-### 🚗 UK Road Accident Analysis Dashboard
+**Tools**
 
-Comprehensive road safety analytics dashboard analyzing accident severity, casualty trends, vehicle involvement, weather conditions, and geographic accident distribution.
-
----
-
-## 🌱 Currently Learning
-
-* Advanced SQL
-* Machine Learning
-* Data Engineering
-* Cloud Technologies
-* System Design
-
----
-
-## 📫 Connect With Me
-
-💼 LinkedIn: https://www.linkedin.com/in/charan-t-r
-
-💻 GitHub: https://github.com/TRCharan
-
-📧 Email: [charantr2714@gmail.com](mailto:charantr2714@gmail.com)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 ---
 
-⭐ Open to Data Analyst, Business Analyst, Python Developer, and AI-related opportunities.
+## 📂 Featured Projects
+
+### 📊 [HR Workforce Analysis Dashboard](https://github.com/TRCharan/hr-attrition-analysis-powerbi)
+> **Power BI · DAX · Python (Pandas) · SQL · Excel**
+
+Analyzed HR data for **1,400+ employees** to uncover attrition patterns and workforce trends.
+
+- Built a centralized **star-schema dataset** using SQL joins and Pandas ETL scripts
+- Segmented data across 5+ dimensions: age, gender, department, tenure, role
+- Developed interactive Power BI dashboards with **advanced DAX measures** tracking attrition, salary distribution, and performance KPIs
+- Applied EDA and descriptive statistical profiling to isolate high-risk departments
+
+---
+
+### 🚗 [U.K. Road Accident Analysis Dashboard](https://github.com/TRCharan/UK-Road-Accident-Analysis-Dashboard)
+> **Power BI · SQL · Python (Pandas) · Excel · DAX**
+
+Built a multi-source data pipeline to consolidate fragmented U.K. accident records for safety analysis.
+
+- Designed **SQL aggregation pipeline** with deduplication, imputation, and date normalization
+- Identified accident hotspots and severity patterns using optimized SQL queries + DAX
+- Built Power BI dashboards with **drill-through reports** and trend visualizations for casualty analysis
+
+---
+
+### 🛒 [E-Commerce Store Analytics Dashboard](https://github.com/TRCharan/E-Commerce-Sales-Analysis)
+> **Power BI · DAX · Power Query · Python (Pandas) · Excel**
+
+End-to-end analytics solution covering revenue, profitability, and customer behavior.
+
+- Identified **15+ high-margin product performance trends** through Python (Pandas) EDA
+- Developed DAX measures tracking **Total Sales, Profit, Quantity Sold, and AOV**
+- Engineered Power Query transformation pipelines for state-wise, customer-wise, and category-wise analysis
+
+---
+
+### 🤟 [AI Sign Language to Text & Speech App](https://github.com/TRCharan)
+> **Python · OpenCV · NLP**
+
+Built a real-time AI application that recognizes sign language gestures and converts them to text and speech — combining computer vision and natural language processing.
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TRCharan&show_icons=true&theme=default&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TRCharan&layout=compact&theme=default&hide_border=true" height="165"/>
+</p>
+
+---
+
+## 🏅 Certifications
+
+| Certificate | Issuer |
+|---|---|
+| Python (Basic) | HackerRank |
+| SQL (Intermediate) | HackerRank |
+| AI/ML Workshop | Microsoft & Edunet Foundation (TechSaksham) |
+
+---
+
+## 🤝 Let's Connect
+
+I'm actively looking for **Data Analyst** opportunities. If you're hiring or want to collaborate, feel free to reach out!
+
+📧 [charantr2714@gmail.com](mailto:charantr2714@gmail.com)
+💼 [LinkedIn](https://www.linkedin.com/in/charan-t-r)
+
+---
+
+<p align="center"><i>"Without data you're just another person with an opinion." — W. Edwards Deming</i></p>
