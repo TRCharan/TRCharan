@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Charan T R 👋</h1>
 
-<h3 align="center">Data Analyst · Python · SQL · Power BI · EDA</h3>
+<h3 align="center">Python Developer · Backend Engineer · REST API Specialist · Full-Stack Developer</h3>
 
 <p align="center">
   <a href="mailto:charantr2714@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -11,76 +11,85 @@
 
 ## About Me
 
-- 🎓 Final-year **B.E. Computer Science** student at KSSEM, Bengaluru *(Expected Dec 2026)*
-- 💼 Former **Associate Software Intern @ Mphasis** — built Python + SQL Web App 
-- 📊 Passionate about transforming raw datasets into clear, decision-driving insights
-- 🔍 Skilled in **EDA, Descriptive Statistics, Data Cleaning, ETL Pipelines**, and **Interactive Dashboards**
-- 🏆 Runner-Up — Project Exhibition | 2nd Runner-Up — 24-Hour Hackathon *(KSSEM)*
-- 📬 Reach me: **charantr2714@gmail.com**
+- 🎓 **B.E. Computer Science & Engineering** graduate from KS School of Engineering and Management, Bengaluru (Expected June 2026)[cite: 3].
+- 💼 Former **Associate Software Developer Intern @ Mphasis** — engineered automation scripts and data extraction pipelines[cite: 3].
+- 🐍 Passionate about building scalable web services, designing relational database schemas, and clean, modular Python coding[cite: 3].
+- 🔍 Skilled in **Flask, REST API Design, JWT Authentication, PostgreSQL**, and **ETL Data Pipelines**[cite: 3].
+- 🏆 Recognized as Project Exhibition Runner-Up and 24-Hour Hackathon 2nd Runner-Up at KSSEM[cite: 3].
+- 📬 Reach me: **charantr2714@gmail.com**[cite: 3]
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages & Databases**
+**Languages & Frameworks**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-**Data Analysis & Visualization**
+**Databases & Web Technologies**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=api&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
+
+**Data Libraries & Development Tools**
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-
-**Tools**
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 ---
 
 ## 📂 Featured Projects
 
-### 📊 [HR Workforce Analysis Dashboard](https://github.com/TRCharan/hr-attrition-analysis-powerbi)
-> **Power BI · DAX · Python (Pandas) · SQL · Excel**
+### 🚀 [TaskFlow — Task Management REST API](https://github.com/TRCharan)
+> **Python · Flask · Flask-RESTful · SQLAlchemy · PostgreSQL · JWT**[cite: 3]
 
-Analyzed HR data for **1,400+ employees** to uncover attrition patterns and workforce trends.
+Designed and built a production-grade RESTful API featuring full CRUD operations and role-based access control[cite: 3].
 
-- Built a centralized **star-schema dataset** using SQL joins and Pandas ETL scripts
-- Segmented data across 5+ dimensions: age, gender, department, tenure, role
-- Developed interactive Power BI dashboards with **advanced DAX measures** tracking attrition, salary distribution, and performance KPIs
-- Applied EDA and descriptive statistical profiling to isolate high-risk departments
-
----
-
-### 🚗 [U.K. Road Accident Analysis Dashboard](https://github.com/TRCharan/UK-Road-Accident-Analysis-Dashboard)
-> **Power BI · SQL · Python (Pandas) · Excel · DAX**
-
-Built a multi-source data pipeline to consolidate fragmented U.K. accident records for safety analysis.
-
-- Designed **SQL aggregation pipeline** with deduplication, imputation, and date normalization
-- Identified accident hotspots and severity patterns using optimized SQL queries + DAX
-- Built Power BI dashboards with **drill-through reports** and trend visualizations for casualty analysis
+- Engineered stateless JWT-based user authentication and secure token authorization via Flask-Login and PyJWT[cite: 3].
+- Modeled a relational PostgreSQL schema using SQLAlchemy ORM with normalized tables, indexing, and foreign key constraints[cite: 3].
+- Developed a dynamic frontend dashboard with Jinja2 templates for live status tracking, deadline monitoring, and custom filtering[cite: 3].
 
 ---
 
-### 🛒 [E-Commerce Store Analytics Dashboard](https://github.com/TRCharan/E-Commerce-Sales-Analysis)
-> **Power BI · DAX · Power Query · Python (Pandas) · Excel**
+### 📈 [DataPulse — Real-Time Analytics Dashboard](https://github.com/TRCharan)
+> **Python · Flask · Flask-SocketIO · PostgreSQL · SQLAlchemy · Chart.js**[cite: 3]
 
-End-to-end analytics solution covering revenue, profitability, and customer behavior.
+Developed an end-to-end full-stack web application streaming live backend data directly to the browser dashboard[cite: 3].
 
-- Identified **15+ high-margin product performance trends** through Python (Pandas) EDA
-- Developed DAX measures tracking **Total Sales, Profit, Quantity Sold, and AOV**
-- Engineered Power Query transformation pipelines for state-wise, customer-wise, and category-wise analysis
+- Implemented real-time continuous data streaming using WebSockets (Flask-SocketIO) to bypass browser page refreshing[cite: 3].
+- Constructed data ingestion and statistical aggregation pipelines using Pandas to compute live user KPIs and performance trends[cite: 3].
+- Followed an application factory architectural pattern separating WebSocket event layers from core database operations[cite: 3].
 
+---
+
+### 🏥 [Oral Cancer Early Prediction AI System](https://github.com/TRCharan)
+> **Python · Django · PostgreSQL · TensorFlow · Scikit-learn**[cite: 3]
+
+Built a full-stack intelligence system leveraging machine learning architectures to calculate risk indicators[cite: 3].
+
+- Applied Scikit-learn and TensorFlow algorithms for custom feature engineering and predictive risk modeling[cite: 3].
+- Tied predictive models into a Python Django web framework backed by a structured PostgreSQL data engine[cite: 3].
+- Delivered real-time risk diagnostic feedback natively within an interactive frontend user dashboard[cite: 3].
+
+---
+
+### 📊 [HR Workforce Data Pipeline](https://github.com/TRCharan/hr-attrition-analysis-powerbi)
+> **Python (Pandas, NumPy) · SQL · PostgreSQL · Power BI**[cite: 3]
+
+Created automated data engineering scripts executing complex data cleaning, normalization, and dimensional staging[cite: 3].
+
+- Automated multi-step ETL processing sequences using Pandas and NumPy libraries across more than 1,400 target records[cite: 3].
+- Integrated explicit relational mappings into a clean star-schema relational template leveraging targeted PostgreSQL joins[cite: 3].
 
 ---
 
@@ -88,19 +97,19 @@ End-to-end analytics solution covering revenue, profitability, and customer beha
 
 | Certificate | Issuer |
 |---|---|
-| Python (Basic) | HackerRank |
-| SQL (Intermediate) | HackerRank |
-| AI/ML Workshop | Microsoft & Edunet Foundation (TechSaksham) |
+| HackerRank Python (Basic) Certification[cite: 3] | HackerRank[cite: 3] |
+| HackerRank SQL (Intermediate) Certification[cite: 3] | HackerRank[cite: 3] |
+| AI/ML Workshop Certification[cite: 3] | TechSaksham by Edunet Foundation & Microsoft[cite: 3] |
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm actively looking for **Data Analyst** opportunities. If you're hiring or want to collaborate, feel free to reach out!
+I am actively searching for entry-level opportunities across **Python Development, Backend Engineering, or SDE** positions[cite: 3]. Let's talk code or collaboration!
 
-📧 [charantr2714@gmail.com](mailto:charantr2714@gmail.com)
-💼 [LinkedIn](https://www.linkedin.com/in/charan-t-r)
+📧 [charantr2714@gmail.com](mailto:charantr2714@gmail.com)[cite: 3]  
+💼 [LinkedIn](https://www.linkedin.com/in/charan-t-r)[cite: 3]
 
 ---
 
-<p align="center"><i>"Without data you're just another person with an opinion." — W. Edwards Deming</i></p>
+<p align="center"><i>"Talk is cheap. Show me the code." — Linus Torvalds</i></p>
